@@ -1,0 +1,51 @@
+application:
+  schemaVersion: 1.0.0-preview1
+  name: todolistapp
+  properties:
+    services:
+    - name: WebFrontEnd
+      properties:
+        description: WebFrontEnd description.
+        osType: Windows
+        codePackages:
+        - name: WebFrontEnd
+          image: webfrontend:dev
+          endpoints:
+          - name: WebFrontEndListener
+            port: 20006
+          environmentVariables:
+          - name: ASPNETCORE_URLS
+            value: http://+:20006
+          - name: ApiHostPort
+            value: 20008
+          - name: ToDoServiceName
+            value: ToDoService
+          resources:
+            requests:
+              cpu: 1.0
+              memoryInGB: 1
+        replicaCount: 1
+        networkRefs:
+        - name: todolistappNetwork
+    - name: ToDoService
+      properties:
+        description: ToDoService description.
+        osType: Windows
+        codePackages:
+        - name: ToDoService
+          image: todoservice:dev
+          endpoints:
+          - name: ToDoServiceListener
+            port: 20008
+          environmentVariables:
+          - name: ASPNETCORE_URLS
+            value: http://+:20008
+          resources:
+            requests:
+              cpu: 0.5
+              memoryInGB: 1
+        replicaCount: 1
+        networkRefs:
+        - name: todolistappNetwork
+    description: todolistapp description.
+

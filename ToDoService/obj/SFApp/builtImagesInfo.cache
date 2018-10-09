@@ -1,0 +1,15 @@
+{
+  "BuiltDockerfiles": [
+    {
+      "ServiceName": "ToDoService",
+      "CodePackageName": "ToDoService",
+      "DockerfilePath": "C:\\Users\\Administrator\\service-fabric-mesh\\src\\todolistapp\\ToDoService\\Dockerfile",
+      "BuildContextPath": "C:\\Users\\Administrator\\service-fabric-mesh\\src\\todolistapp",
+      "DockerfileHash": "HNq/7p4++UCVSxHlsvsivvJyumplzUjz+VzXp9R0QE4=",
+      "DockerIgnoreFileHash": "XHz8aUYl8MB6VeDpzVtNsST4hgewNSyNaO7p3eralQ0=",
+      "BuildStage": "",
+      "ImageTag": "todoservice:dev",
+      "ImageId": "sha256:db370f5b5e53fe3c72b4e686ba849512425b07e2b289570565ffe10f8e3a41a1"
+    }
+  ]
+}

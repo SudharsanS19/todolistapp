@@ -1,0 +1,18 @@
+## Visual Studio SFApp Publish Profile ##
+vsSFAppPublishProfile:
+  schemaVersion: 1.0.0-preview1
+resourceGroupName: todolistapp
+subscription:
+  id: 5c357a73-4fc8-465c-a758-5668dda98007
+  name: Azure Pass
+  tenant: &o0
+    id: d8b411a0-790e-4563-8aa0-d36610e1d778
+    uniqueId: 6b2cb4e9-947f-4165-974d-d42dbe04363d
+location:
+  name: eastus
+  displayName: East US
+containerRegistry:
+  serverName: todolistapp.azurecr.io
+  userName: todolistapp
+  resourceId: /subscriptions/5c357a73-4fc8-465c-a758-5668dda98007/resourceGroups/todolistapp/providers/Microsoft.ContainerRegistry/registries/todolistapp
+  tenant: *o0

@@ -1,0 +1,15 @@
+{
+  "BuiltDockerfiles": [
+    {
+      "ServiceName": "WebFrontEnd",
+      "CodePackageName": "WebFrontEnd",
+      "DockerfilePath": "C:\\Users\\Administrator\\service-fabric-mesh\\src\\todolistapp\\WebFrontEnd\\Dockerfile",
+      "BuildContextPath": "C:\\Users\\Administrator\\service-fabric-mesh\\src\\todolistapp",
+      "DockerfileHash": "SdiSw6zTJitpPHI0PbyMsBKqW3A/aH1UE+C0s3xB93I=",
+      "DockerIgnoreFileHash": "XHz8aUYl8MB6VeDpzVtNsST4hgewNSyNaO7p3eralQ0=",
+      "BuildStage": "",
+      "ImageTag": "webfrontend:dev",
+      "ImageId": "sha256:5702a0907b9142e5ae491f21f33a13032c3a0e4197abb82802df2380c387901e"
+    }
+  ]
+}

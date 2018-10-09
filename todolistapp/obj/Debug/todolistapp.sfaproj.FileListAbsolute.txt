@@ -1,0 +1,1 @@
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\todolistapp\obj\Debug\todolistapp.sfaproj.CoreCompileInputs.cache

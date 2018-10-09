@@ -1,0 +1,17 @@
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\bin\Debug\netcoreapp2.1\ToDoService.deps.json
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\bin\Debug\netcoreapp2.1\ToDoService.runtimeconfig.json
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\bin\Debug\netcoreapp2.1\ToDoService.runtimeconfig.dev.json
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\bin\Debug\netcoreapp2.1\ToDoService.dll
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\bin\Debug\netcoreapp2.1\ToDoService.pdb
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.csprojAssemblyReference.cache
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.RazorAssemblyInfo.cache
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.RazorAssemblyInfo.cs
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.AssemblyInfoInputs.cache
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.AssemblyInfo.cs
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.csproj.CopyComplete
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.dll
+C:\Users\Administrator\service-fabric-mesh\src\todolistapp\ToDoService\obj\Debug\netcoreapp2.1\ToDoService.pdb
